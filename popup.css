@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 250px;
+  margin: 0;
+  padding: 10px;
+  background: #f4f6f9;
+}
+
+.container {
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+#current-site, #time-spent {
+  margin: 8px 0;
+  font-size: 14px;
+}
+
+button {
+  padding: 8px 12px;
+  background: #4e73df;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #2e59d9;
+}   
